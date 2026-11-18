@@ -6,7 +6,7 @@ Leave a line as "ASK ME" and it will ask you each time.
 - Work rights: ASK ME
 - Requires visa sponsorship: ASK ME
 - Notice period / earliest start date: ASK ME
-- Salary expectation (AUD, incl. super): Use the salary estimate in the job folder's job.md. Never below <your floor>.
+- Salary expectation: Use the salary estimate in the job folder's job.md. Never below the salary floor in profile.md.
 - Willing to work hybrid: ASK ME
 - Willing to relocate: ASK ME
 - Driver's licence: ASK ME
