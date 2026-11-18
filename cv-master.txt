@@ -1,0 +1,20 @@
+YOUR NAME
+Target title | City, State | phone | email | LinkedIn
+Work rights: ...
+
+SUMMARY
+...
+
+SKILLS
+...
+
+EXPERIENCE
+Role | Company, City | Mon YYYY to Mon YYYY
+- Action + what + measurable result
+...
+
+EDUCATION
+...
+
+CERTIFICATIONS
+...
