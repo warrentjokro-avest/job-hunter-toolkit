@@ -1,0 +1,9 @@
+.DS_Store
+applications/*
+!applications/.gitkeep
+uploads/
+reports/success-matrix.json
+*.docx
+*.pdf
+cv-master.*
+!cv-master.example.txt
